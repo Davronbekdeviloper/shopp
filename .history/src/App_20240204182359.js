@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div >
-      salaaoande2iowdejkhwgfdwdwq
+      salaaoande2iowdejkhwgf
     </div>
   );
 }
